@@ -1,0 +1,35 @@
+body{
+    background-color:palevioletred;
+}
+
+.contenedor{
+    clear: both;
+    overflow: auto;
+}
+
+nav{
+    float: right;
+}
+
+img{
+    float: left;
+}
+
+ul li{
+    display: inline;
+    font-size: 1.5cm;
+    padding: 30px;
+    font-family: 'Itim', cursive;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+ul li a:hover{
+    color: white;
+}
+
+.servicio{
+    font-family: 'Anton', sans-serif;
+}

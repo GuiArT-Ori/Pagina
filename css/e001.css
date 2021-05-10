@@ -1,0 +1,13 @@
+.seccion{
+    border-style: double;
+    background-color: red;
+    border-radius: 15px;
+}
+
+.secciontitulo{
+    color:white;
+}
+
+.seccionparrafo{
+    background-color:white ;
+}

@@ -1,0 +1,14 @@
+.Particulos01{
+    background-color: yellow;
+}
+
+.Particulos02{
+    background-color: navy;
+    color: white;
+}
+
+.Particulos03{
+    background-color:green;
+    border-style: dashed;
+    border-radius: 10px;
+}

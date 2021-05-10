@@ -1,0 +1,45 @@
+.div001{
+    background-color: yellow;
+}
+
+.div002{
+    background-color:green;
+}
+
+.div003{
+    background-color:blue;
+    height: 50px;
+    width: 200px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.caja{
+    padding: 10px;
+    border-radius: 15px;
+    border-style:dashed;
+}
+
+.boton01{
+   background-color: yellow;
+   margin: 0px;
+   padding: 5px;
+   width: 100px;
+   height: 20px;
+}
+
+.boton02{
+    background-color: green;
+    margin: 0px;
+   padding: 5px;
+   width: 100px;
+   height: 20px;
+}
+
+.boton03{
+    background-color: blue;
+    margin: 0px;
+   padding: 5px;
+   width: 100px;
+   height: 20px;
+}
