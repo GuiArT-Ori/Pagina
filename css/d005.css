@@ -1,0 +1,16 @@
+h2{
+    /* color para la fuente */
+    color: yellow;
+    /* color de fondo */
+    /* background-color: rgb( 15%, 20%, 50%); */
+    background-color: rgba(15%, 20%, 50%, 0.1);
+}
+
+section{
+    color: #3FBF7F;
+    background-color: rgba(30%, 20%, 10%, 0.5);
+}
+
+article{
+    background-color: rgb(170, 116, 224);
+}

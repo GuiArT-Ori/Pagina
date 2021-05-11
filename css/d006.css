@@ -1,0 +1,55 @@
+/*
+root(mi pagina)
+     s06d006.html
+
+     +----Imagen
+              
+              +-- coco.png
+              +-- computer.png
+              +-- gallina.png
+     +------css
+         
+             +----d006.css
+*/
+h2{
+    /*background-color: white;*/
+    color: #483d8b;
+}
+.art01{
+    background-image: url(/Imagen/gallina.png);
+    background-size: contain;
+    background-color: bisque;
+    color:  #ffa500;
+}
+
+.art02{
+    width: 900px;
+    height: 250px;
+    background-image: url(/Imagen/computer.png);
+   /* background-size: cover; */
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+
+.art03{
+    width: 900px;
+    height: 250px;
+    overflow: hidden;
+    background-image: url(/Imagen/coco.png);
+    background-repeat: repeat-y;
+     /* background-repeat: repeat-x; */
+     /* background-repeat: no-repeat; */
+    background-size: cover; 
+    background-attachment: scroll;
+}
+
+.art04{
+    width: 900px;
+    height: 400px;
+    background-color: cadetblue;
+    background-image: url(/Imagen/computer.png);
+   /* background-size: cover; */
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    background-position: 5px 50px;
+}
